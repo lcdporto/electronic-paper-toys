@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.276px" height="841.89px" viewBox="0 0 595.276 841.89" enable-background="new 0 0 595.276 841.89"
+	 xml:space="preserve">
+<g id="ilustração">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="369.8994" y1="285.8633" x2="369.8994" y2="646.5958" gradientTransform="matrix(0 -1 1 0 -138.7241 798.7168)">
+		<stop  offset="0" style="stop-color:#1D3058"/>
+		<stop  offset="0.1503" style="stop-color:#344870"/>
+		<stop  offset="0.3332" style="stop-color:#4F6A8F"/>
+		<stop  offset="0.4743" style="stop-color:#6482A5"/>
+		<stop  offset="0.5556" style="stop-color:#6C8BAD"/>
+		<stop  offset="0.6219" style="stop-color:#6381A4"/>
+		<stop  offset="0.7396" style="stop-color:#4E688D"/>
+		<stop  offset="0.8937" style="stop-color:#31456C"/>
+		<stop  offset="1" style="stop-color:#1D3058"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_1_)" points="110.307,598.896 110.307,258.74 223.693,258.74 223.707,145.354 365.439,145.342 
+		365.426,258.74 478.812,258.74 478.812,598.896 365.426,598.891 365.426,712.291 223.693,712.293 223.692,598.892 	"/>
+	<g>
+		<defs>
+			<polygon id="SVGID_71_" points="785.242,447.15 785.242,546.207 685.74,546.207 685.74,640.695 785.242,640.695 
+				1068.133,640.695 1068.133,447.15 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_71_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<g>
+				
+					<image overflow="visible" width="1341" height="1827" xlink:href="CE3073FAF4B45C74.png"  transform="matrix(0.24 0 0 0.24 582.3584 400.4238)">
+				</image>
+			</g>
+		</g>
+	</g>
+	<rect x="223.707" y="145.354" fill="none" width="141.719" height="113.387"/>
+	
+		<rect x="110.308" y="357.952" fill="none" stroke="#E71D73" stroke-width="0.25" stroke-miterlimit="10" stroke-dasharray="2,6,2" width="113.385" height="141.732"/>
+	
+		<rect x="372.513" y="287.086" fill="none" stroke="#E71D73" stroke-width="0.25" stroke-miterlimit="10" stroke-dasharray="2,6,2" width="99.213" height="283.465"/>
+</g>
+<g id="planificação">
+	<g>
+		
+			<rect x="365.426" y="258.74" fill="none" stroke="#706F6F" stroke-width="0.2739" stroke-miterlimit="10" width="113.387" height="340.156"/>
+		
+			<rect x="223.693" y="258.74" fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" width="141.732" height="340.156"/>
+		
+			<rect x="237.886" y="584.725" transform="matrix(1.033107e-04 1 -1 1.033107e-04 950.1395 360.944)" fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" width="113.387" height="141.732"/>
+		
+			<rect x="237.886" y="131.175" transform="matrix(1.033107e-04 1 -1 1.033107e-04 496.5897 -92.559)" fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" width="113.387" height="141.732"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="87.629,288.742 110.307,258.74 
+			110.307,598.896 87.629,568.893 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="501.49,568.895 478.812,598.896 
+			478.812,258.74 501.49,288.744 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="460.688,236.023 478.812,258.74 
+			365.426,258.738 380.342,236.023 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="347.32,122.625 365.445,145.342 
+			223.713,145.34 238.629,122.625 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="460.688,621.613 478.812,598.896 
+			365.426,598.898 380.342,621.613 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="347.301,735.008 365.426,712.291 
+			223.693,712.293 238.607,735.008 		"/>
+		
+			<rect x="110.307" y="258.74" fill="none" stroke="#706F6F" stroke-width="0.2739" stroke-miterlimit="10" width="113.387" height="340.156"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="205.568,236.023 223.693,258.74 
+			110.307,258.738 125.223,236.023 		"/>
+		<polygon fill="none" stroke="#706F6F" stroke-width="0.25" stroke-miterlimit="10" points="205.568,621.613 223.693,598.896 
+			110.307,598.898 125.223,621.613 		"/>
+	</g>
+	<circle fill="#E71D73" cx="294.579" cy="202.047" r="6.352"/>
+	<circle fill="#E71D73" cx="167" cy="428.818" r="6.352"/>
+</g>
+</svg>
