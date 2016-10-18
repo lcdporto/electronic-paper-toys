@@ -8,3 +8,7 @@ Electronic paper toys is an open source project developed by [Laboratório de Cr
 ## Want to contribute?
 
 Want to contribute? Excellent! We are open to suggestions, collaborations and improvements. Get in touch or make a pull request!
+
+## Donate
+
+If you like the project and don't want or can't contribute why not make a donation. We are a nonprofit organization.
